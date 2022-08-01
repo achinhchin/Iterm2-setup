@@ -9,6 +9,17 @@
                 "Init"
             ],
             "development versions": {}
+        },
+        "0.1": {
+            "features": [
+                "Iterm2 setup"
+            ],
+            "release": true,
+            "updates": [
+                "change colors",
+                "add font"
+            ],
+            "development versions": {}
         }
     },
     "features": {
